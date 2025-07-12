@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "exit.h": "c",
+        "led.h": "c"
+    }
+}

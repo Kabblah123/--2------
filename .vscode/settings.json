@@ -3,6 +3,9 @@
         "*.c": "c",
         "exit.h": "c",
         "led.h": "c",
-        "delay.h": "c"
+        "delay.h": "c",
+        "stm32f1xx_hal_gpio.h": "c",
+        "key.h": "c",
+        "cstdint": "c"
     }
 }

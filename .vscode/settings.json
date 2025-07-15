@@ -6,6 +6,8 @@
         "delay.h": "c",
         "stm32f1xx_hal_gpio.h": "c",
         "key.h": "c",
-        "cstdint": "c"
+        "cstdint": "c",
+        "wdg.h": "c",
+        "sys.h": "c"
     }
 }

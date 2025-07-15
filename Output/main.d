@@ -65,3 +65,4 @@
 ..\..\output\main.o: ..\..\Drivers\./BSP/BEEP/beep.h
 ..\..\output\main.o: ..\..\Drivers\./BSP/KEY/key.h
 ..\..\output\main.o: ..\..\Drivers\./BSP/EXIT/exit.h
+..\..\output\main.o: ..\..\Drivers\./BSP/WDG/wdg.h

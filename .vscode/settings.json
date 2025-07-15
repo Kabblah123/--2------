@@ -8,6 +8,8 @@
         "key.h": "c",
         "cstdint": "c",
         "wdg.h": "c",
-        "sys.h": "c"
+        "sys.h": "c",
+        "wwdg.h": "c",
+        "btim.h": "c"
     }
 }
